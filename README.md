@@ -1,0 +1,1 @@
+To create a simple contact book using Python, you can build a program that stores contacts (names, phone numbers, and possibly email addresses) using dictionaries or lists. Here’s an example that allows adding, viewing, updating, and deleting contacts
